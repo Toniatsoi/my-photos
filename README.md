@@ -1,2 +1,2 @@
-# my-photos
+# photos
 My photos
